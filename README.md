@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2025<br>📚 I'm currently learning Frontend<br></p>
+<p align="left">✨ Creating bugs since 2025<br>📚 I'm currently learning frontend development and building my skills.<br></p>
 
 ###
 
