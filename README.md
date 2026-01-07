@@ -1,8 +1,8 @@
-<h1 align="left">👋Hi! Willkommen auf meinem GitHub-Profil. </h1>
+<h1 align="left">👋Hi! Welcome to my GitHub profile.. </h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Marlon and I'm a Developer, from Germany</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2025<br>📚 I'm currently learning Frontend<br></p>
 
 ###
 
